@@ -17,8 +17,8 @@ CREATE TABLE employees (
 );
 
 CREATE TABLE dept_emp (
-	dept_no VARCHAR(4) NOT NULL,
 	emp_no INT NOT NULL,
+	dept_no VARCHAR(4) NOT NULL,
 	from_date DATE NOT NULL,
 	to_date DATE NOT NULL,
 	FOREIGN KEY (dept_no) REFERENCES departments (dept_no),
@@ -54,5 +54,18 @@ CREATE TABLE titles (
 	PRIMARY KEY (emp_no, title, from_date)
 );
 
--- Query the database 
+-- Query the empty database 
 SELECT * FROM departments;
+
+-- Query the databases
+SELECT * FROM departments;
+
+SELECT * FROM employees LIMIT 10;
+
+SELECT * FROM dept_emp LIMIT 10;
+
+SELECT * FROM dept_manager;
+
+SELECT * FROM salaries LIMIT 10;
+
+SELECT * FROM titles LIMIT 10;
