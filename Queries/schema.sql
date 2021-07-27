@@ -53,19 +53,3 @@ CREATE TABLE titles (
 	FOREIGN KEY (emp_no) REFERENCES employees (emp_no),
 	PRIMARY KEY (emp_no, title, from_date)
 );
-
--- Query the empty database 
-SELECT * FROM departments;
-
--- Query the databases
-SELECT * FROM departments;
-
-SELECT * FROM employees LIMIT 10;
-
-SELECT * FROM dept_emp LIMIT 10;
-
-SELECT * FROM dept_manager;
-
-SELECT * FROM salaries LIMIT 10;
-
-SELECT * FROM titles LIMIT 10;
