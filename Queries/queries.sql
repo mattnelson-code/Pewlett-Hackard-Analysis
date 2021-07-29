@@ -176,4 +176,4 @@ INNER JOIN dept_info AS di
 	ON (ce.emp_no = di.emp_no)
 INNER JOIN departments AS d
 	ON (di.dept_name = d.dept_name)
-WHERE (d.dept_name = 'Sales' OR d.dept_name = 'Development');
+WHERE d.dept_name IN ('Sales','Development');
