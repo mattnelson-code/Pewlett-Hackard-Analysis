@@ -36,3 +36,15 @@
 4. There are 1549 employees eligible for the mentorship. 
 
 ## Summary
+
+### Questions
+
+1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+### Responses
+
+1. As mentioned above, the silver tsunami consists of 90,398 employees retiring in the near future. These roles will need to be filled as more retirements occur.
+2. The data suggests that there are more than enough retirement-ready employments ready to mentor the next generation of PH employees. With over 90K retirement-ready employees and 1549 employees eligible for the mentorship, PH likely has enough qualified, retirement-ready employees to mentor the next generation. 
+
+### Additional Info 
