@@ -13,16 +13,20 @@
 * Conduct an analysis that shows the employees eligible for the PH Mentorship Program 
 * Report the findings to assist PH's decision-making 
 
-## Results
+## Results: Four Discoveries
 
-### Number of Retiring Employees by Title: Two Discoveries
+### Images
+
+* See the number of employees retiring: ![retiring_emp](Images/retiring_emp.png)
+* See the number of retiring employees by title: ![retiring_titles](Images/retiring_titles.png)
+* See the number of employees eligible for a mentorship: ![mentorship_elibility](Images/mentorship_eligibility.png)
+* Note: To see the full retiring_titles.csv, unique_titles.csv, and mentorship_eligibility.csv, view the tables in the Data folder
+
+### Four Discoveries
 
 1. 
 2. 
-
-### Employees Eligible for the Mentorship Program: Two Discoveries
-
-1. 
-2. 
+3. 
+4. 
 
 ## Summary

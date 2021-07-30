@@ -58,3 +58,11 @@ JOIN titles as t
 WHERE (de.to_date = '9999-01-01')
 AND (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 ORDER BY e.emp_no;
+
+-- Employees Eligible for Mentorship
+SELECT COUNT(emp_no) AS "Eligible for Mentorship"
+FROM mentorship_eligibility;
+
+-- Retiring Employees
+SELECT COUNT(emp_no) AS "Retiring Employees"
+FROM unique_titles;
