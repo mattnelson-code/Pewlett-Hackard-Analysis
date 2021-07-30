@@ -23,16 +23,16 @@
 * See the number of retiring employees by title:
 
 ![retiring_titles](Images/retiring_titles.png)
-* See the number of employees eligible for a mentorship:
+* See the number of employees eligible for the mentorship:
 
 ![mentorship_elibility](Images/mentorship_eligibility.png)
-* Note: To see the full retiring_titles.csv, unique_titles.csv, and mentorship_eligibility.csv, view the tables in the Data folder
+* Note: To see the full retiring_titles.csv, unique_titles.csv, and mentorship_eligibility.csv, view the tables in the Data folder.
 
 ### Four Discoveries
 
-1. 
-2. 
-3. 
-4. 
+1. There are 90,398 employees retiring in the near future.
+2. The two job titles with the most approaching retirees are Senior Engineer (29,414) and Senior Staff (28,255). Engineer (14,222) and Staff (12,242) are next. 
+3. There are 2 managers about to retire. 
+4. There are 1549 employees eligible for the mentorship. 
 
 ## Summary
