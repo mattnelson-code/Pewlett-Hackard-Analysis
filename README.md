@@ -48,3 +48,7 @@
 2. The data suggests that there are more than enough retirement-ready employments ready to mentor the next generation of PH employees. With over 90K retirement-ready employees and 1549 employees eligible for the mentorship, PH likely has enough qualified, retirement-ready employees to mentor the next generation. 
 
 ### Additional Info 
+
+1. A query from the current_emp_count table shows that the Development department (d005) has the most employees retiring in the near future and the Finance department (d002) has the fewest. See data:
+![emp_count_max_min](Images/emp_count_max_min.png)
+2. 

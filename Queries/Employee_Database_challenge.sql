@@ -66,3 +66,9 @@ FROM unique_titles;
 -- Employees Eligible for Mentorship
 SELECT COUNT(emp_no) AS "Eligible for Mentorship"
 FROM mentorship_eligibility;
+
+-- Department with Max & Min Retirees
+SELECT 
+	MAX(count) AS "Max Retirees", 
+	MIN(count) AS "Min Retirees"
+FROM current_emp_count; 
