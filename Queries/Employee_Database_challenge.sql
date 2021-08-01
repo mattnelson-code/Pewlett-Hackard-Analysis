@@ -72,3 +72,9 @@ SELECT
 	MAX(count) AS "Max Retirees", 
 	MIN(count) AS "Min Retirees"
 FROM current_emp_count; 
+
+-- Active Managers Who Will Retire Soon
+SELECT first_name,
+	last_name
+FROM manager_info
+WHERE to_date = '9999-01-01'
