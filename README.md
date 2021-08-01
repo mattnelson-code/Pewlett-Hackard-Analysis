@@ -57,7 +57,7 @@ See Max and Min upcoming retirees:
 
 ![emp_count_max_min](Images/emp_count_max_min.png)
 
-2. The manager_info table needs clarification. The table displays 5 managers as active, while only 2 have the to_date = '1/1/99.' The '1/1/99' in the table is short for '9999-01-01,' which represents active employees or managers. Now, 3 managers appear in manager_info who stopped being a manager in 1992, 1996, and 1988, respectively. It is important to note that they appear in the table as a result of the JOIN with the current_emp table. These 3 managers are no longer managers but remain current employees. This information is important because PH should focus on replacing 2 managers, Huake Zhang from Sales and Hilary Kambil from Research, instead of replacing 5 managers. 
+2. The manager_info table needs clarification. The table displays 5 managers as active, while only 2 have the to_date = '1/1/99.' The '1/1/99' in the table is short for '9999-01-01,' which represents active employees or managers in all of the database tables. Now, 3 managers appear in manager_info who stopped being a manager in 1992, 1996, and 1988, respectively. It is important to note that they appear in the table as a result of the JOIN with the current_emp table. These 3 managers are no longer managers but remain current employees. This information is important because PH should focus on replacing 2 managers, Huake Zhang from Sales and Hilary Kambil from Research, instead of replacing 5 managers. 
 
 Note: The manager_info table can be viewed in the Data folder.
 
